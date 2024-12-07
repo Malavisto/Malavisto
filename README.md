@@ -19,10 +19,13 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for coding, v
 
 - 🤖 **Anilist-based Discord Bot** - A discord bot that uses the Anilist API for various commands.
 - 🏗️ **Personal Homelab** – Automating services using Docker, Traefik, and Prometheus.
-- 📂 **File Management Scripts** – Python scripts for comparing, managing, and transcoding media files.
 - 🔐 **Authentication and Proxy** – Managing authentication middleware with Authentik and Traefik setups.
-- 💡 **SMART Test Automation** – A Python script that performs SMART tests and sends results to Discord.
 - 📸 **Personal NAS Setup** – Building a self-hosted backup solution for pictures using Docker.
+
+## 🕰️ Past Projects
+
+- 📂 **File Management Scripts** – Python scripts for comparing, managing, and transcoding media files.
+- 💡 **SMART Test Automation** – A Python script that performs SMART tests and sends results to Discord.
 
 ## 📈 GitHub Stats
 
