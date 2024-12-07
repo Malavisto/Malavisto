@@ -29,7 +29,9 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for coding, v
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=malavisto&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&username=malavisto)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&username=malavisto)
 
 Thanks for stopping by! Feel free to check out my repositories and contact me if you'd like to collaborate on a project.
 
