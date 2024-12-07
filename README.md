@@ -10,14 +10,15 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for coding, v
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, Bash
+- **Languages**: Python, Bash, Javascript
 - **Platforms**: Ubuntu, Windows, Docker
 - **Tools**: Git, Prometheus, Grafana, Traefik, SyncThing, Authentik
 - **Other Skills**: Homelab setups, File management scripts, SMART test automation, Video transcoding
 
 ## 📝 Current Projects
 
-- 🏗️ Personal Homelab – Automating services using Docker, Traefik, and Prometheus.
+- 🤖 **Anilist-based Discord Bot** - A discord bot that uses the Anilist API for various commands.
+- 🏗️ **Personal Homelab** – Automating services using Docker, Traefik, and Prometheus.
 - 📂 **File Management Scripts** – Python scripts for comparing, managing, and transcoding media files.
 - 🔐 **Authentication and Proxy** – Managing authentication middleware with Authentik and Traefik setups.
 - 💡 **SMART Test Automation** – A Python script that performs SMART tests and sends results to Discord.
@@ -27,5 +28,5 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for coding, v
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=malavisto&show_icons=true&theme=dark)
 
-Thanks for stopping by! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
+Thanks for stopping by! Feel free to check out my repositories and contact me if you'd like to collaborate on a project.
 
